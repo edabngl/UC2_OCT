@@ -40,10 +40,10 @@ The overall price is in the range *OF LESS THAT A ZILLION*.
 
 
 # Table of Content
-* **[Software](#-software)**
-* **[Hardware](#-hardware)**
+* **[Hardware](https://github.com/edabngl/UC2_OCT/blob/main/Hardware)**
+* **[Electronics](https://github.com/edabngl/UC2_OCT/blob/main/Electronics)**
+* **[Software](https://github.com/edabngl/UC2_OCT/blob/main/Software)**
 * **[Bill of materials](#-bill-of-materials)**
-* **[Electronics](#-electronics)**
 * **[Results](#-results)**
 
 
