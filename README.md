@@ -3,21 +3,33 @@
 <a href="#logo" name="logo"><img src="https://raw.githubusercontent.com/bionanoimaging/UC2-GIT/master/IMAGES/UC2_logo_text.png" width="400"></a>
 </p>
 
-# openUC2 *PROJECT_NAME*
+# openUC2 *Time-Domain, Full-Field, Low-Cost, 3D-Printed Optical Coherence Tomography*
 ---
 
-This repository will help you to build and setup *A NICE TOOL*.
+This repository will help you to build and setup *UC2-OCT*.
 
-*DESCRIBE WHAT IT DOES AND WHAT IT IS FOR.*
+*In this project, we will design a low-cost, 3D-printed, time-domain Optical Coherence Tomography based on UC2 system.*
+We started to build our setup with basic version; Michelson Interferometer. 
+Project Timeline: 
+  * Using Thorlab equipments, Michelson Interferometer was built with a RGB Laser and Red filter. __SEP 2021__
+  * Using Thorlab equipments, Michelson Interferometer was built with a red LED light source and dichroic longpass filter. __OCT 2021__    **IN PROGRESS**   
+     
+  __NEXT STEPS__
+  * Using Thorlab equipments, Michelson Interferometer was built with a red LED light source and dichroic longpass filter. Voice Coil Actuator is inserted setup for moving the sample mirror. __OCT 2021__  
+  * Working Thorlabs system will be adapted to the UC2 version. 3D-printed parts will be designed or adapted to the project. __OCT 2021__
 
-Curious to see what this looks like? Keep scrolling!
 
-*INCLUDE A NICE PICTURE AND/OR SCHEME.*
+*UC2-OCT Setup Diagram (draw.io)*
 
 <p align="center">
 <a href="#logo" name="logo"><img src="./IMAGES/"></a>
 </p>
 
+*UC2-OCT Setup Diagram (Autodesk Inventor Rendered Image)*
+
+<p align="center">
+<a href="#logo" name="logo"><img src="./IMAGES/"></a>
+</p>
 The overall price is in the range *OF LESS THAT A ZILLION*.
 
 
