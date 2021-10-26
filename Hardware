@@ -1,18 +1,10 @@
 
-Hardware Part of UC2-OCT can be classified as ;
-  3D-printed parts
-  Electronics parts
-  
-Componenets of Electronic Part of the Setup:
-
-  1. Light Source
-  2. Voice Coil Actuator controlled by ESP 32S
-  3. Raspberry Camera as Detector
-  4. Raspberry Pi 4
+Hardware Part of UC2-OCT is built by 3D-printd UC2 modules. Some of the modules are already used in the previous UC2 applications. 
+Some of the parts are designed for this application or redesigned for some parts. 
 
 Componenets of 3D-printed Part of the Setup:
 
-  1. Light Source Module
+  1. [Light Source Module]()
   2. Reference Mirror Module
   3. Sample Module 
   4. Beam Splitter Module
@@ -26,3 +18,10 @@ Componenets of 3D-printed Part of the Setup:
     5) Achromatic lens
     
   
+##Köhler Illumination
+
+In the setup, we use red LED light source. It's a cheap component and illuminated light is incoherent. Adding additional Dichroic Longpass filter and Köhler Illumination part, we obtaine almost collimated and higher coherence length light source.
+
+Köhler Illumination Diagram 
+
+[REF](http://zeiss-campus.magnet.fsu.edu/articles/lightsources/lightsourcefundamentals.html)
