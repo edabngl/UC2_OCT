@@ -24,17 +24,19 @@ We started to build our setup with basic version; Michelson Interferometer. Then
 *  cheap electronics (ESP-32S as microcontroller)
 *  low-cost, light Silver Mirror (DIY)
 
-#### Project Timeline:
+##         Project Timeline:
 
-  * Using Thorlab equipments, Michelson Interferometer was built with a RGB Laser and Red filter. __SEP 2021__
-  * Using Thorlab equipments, Michelson Interferometer was built with a red LED light source and dichroic longpass filter. __OCT 2021__    **IN PROGRESS**   
+| Date | To Do | Status of the Task |
+| --- | --- | --- |
+| **September 2021** | Using Thorlab equipments, Michelson Interferometer was built with a RGB Laser and Red paper filter. | `DONE` |
+| **October 2021** | Using Thorlab equipments, Michelson Interferometer is building with a red LED light source and dichroic longpass filter | `IN PROGRESS` |
+| **October and November 2021** | Working Thorlabs system will be adapted to the UC2 version. 3D-printed parts will be redesigned or adapted to the project. | `WAITING` |
+| **October 2021** | Voice Coil Actuator will be inserted setup for moving the sample mirror in linear direction. | `WAITING` |
+| **November 2021** | Reference mirror with Voice coil actuators will be adapted to the 3D-printed system.  | `WAITING` |
 
-   __NEXT STEPS:__
-  * Using Thorlab equipments, Michelson Interferometer was built with a red LED light source and dichroic longpass filter. Voice Coil Actuator is inserted setup for moving the sample mirror. __OCT 2021__  
-  * Working Thorlabs system will be adapted to the UC2 version. 3D-printed parts will be designed or adapted to the project. __OCT 2021__
 
 
-# Table of Content
+## Table of Content
   * **[Hardware](./Hardware)**
   * **[Electronics](./Electronics)**
   * **[Software](./Software)**
@@ -56,7 +58,7 @@ We started to build our setup with basic version; Michelson Interferometer. Then
 The overall price is in the range *OF LESS THAT A ZILLION*.
 
 
-*Michelson Interferometer Experiment Setup with Thorlabs Equipment*
+### 1st SETUP: Michelson Interferometer Experiment Setup with Thorlabs Equipment
 
 **Setup with RGB Laser as a Light Source and the filter:**
 More details about the setup can be found [here](./Hardware/Modules/Light Source).
@@ -73,18 +75,14 @@ More details about the setup can be found [here](./Hardware/Modules/Light Source
 <a href="#logo" name="logo"><img src="./IMAGES/"></a>
 </p>
 
-*Time-Domain(TD) Full-Field(FF) Experiment Setup with Thorlabs Equipment*
+### 2nd SETUP: Time-Domain(TD) Full-Field(FF) Experiment Setup with Thorlabs Equipment
 
-**Setup with RGB Laser as a Light Source and the filter:**
+**Setup with a Laser as a Light Source and the filter:**
 More details about the setup can be found [here](./Hardware/Modules/Light Source).
 
 <p align="center">
 <a href="#logo" name="logo"><img src="./IMAGES/"></a>
 </p>
-
-__add gif__
-
-
 
 **Setup with Red LED as a Light Source and the filter:**
 More details about the setup can be found [here](./Hardware/Modules/Light Source).
@@ -92,9 +90,6 @@ More details about the setup can be found [here](./Hardware/Modules/Light Source
 <p align="center">
 <a href="#logo" name="logo"><img src="./IMAGES/"></a>
 </p>
-
-__add gif__
-
 
 
 ## Get Involved

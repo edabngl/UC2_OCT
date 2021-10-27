@@ -6,8 +6,8 @@ LED is used with dichroic long pass filter and Köhler illumination together in 
 
 Spectrum of the red LED:
 
-<p align="left">
-<a href="#logo" name="logo"><img src="./IMAGES/red LED spectrum.PNG" width="400"></a>
+<p align="middle">
+<a href="#logo" name="logo"><img src="./IMAGES/red LED spectrum.PNG" width="700"></a>
 </p>
 
 *Properties of the LED source:*
@@ -35,8 +35,8 @@ V is 5 V.
 I = 5 V / 50 ohm = 0,1 A = 100 mA
 
 *Circuit of the LED and resistors Connection*
-<p align="left">
-<a href="#logo" name="logo"><img src="./IMAGES/LED coonection with resistors.png" width="400"></a>
+<p align="middle">
+<a href="#logo" name="logo"><img src="./IMAGES/LED coonection with resistors.png" width="700"></a>
 </p>
 
 
@@ -53,16 +53,15 @@ In the alignment part of the Thorlabs setup, [RGB Laser source]() was used with 
 
 Spectrum of the RGB Laser:
 
-<p align="left">
-<a href="#logo" name="logo"><img src="./IMAGES/RGB Laser spectrum.PNG" width="400"></a>
+<p align="middle">
+<a href="#logo" name="logo"><img src="./IMAGES/RGB Laser spectrum.PNG" width="700"></a>
 </p>
 
 Spectrum of the RGB Laser with red paper filter:
 
-<p align="left">
-<a href="#logo" name="logo"><img src="./IMAGES/RGB Laser with paper filter spectrum.PNG" width="400"></a>
+<p align="middle">
+<a href="#logo" name="logo"><img src="./IMAGES/RGB Laser with paper filter spectrum.PNG" width="700"></a>
 </p>
-
 
 
 ## Collaborating

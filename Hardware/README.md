@@ -11,11 +11,7 @@ Components of 3D-printed Part of the Setup:
   4. [Beam Splitter Module](./Modules/Beam Splitter Module)
   5. [Camera Module](./Modules/Camera Module)
   6. 2 x [Objective Lens Modules](./Modules/Objective Lens Module)
-  7. (Köhler Illumination) Pinhole
-  8. (Köhler Illumination) Aperture
-  9. (Köhler Illumination) Plano-convex lens as collector
-  10. (Köhler Illumination) Plano-convex lens
-  11. (Köhler Illumination) Achromatic lens
+  7. [Köhler Illumination](./Modules/Köhler Illumination)
 
 
 ### 3D printing files
@@ -45,6 +41,7 @@ Components of 3D-printed Part of the Setup:
   | Star LED | *Incoherent, low-cost light source* |  1  |  xx € | [My favourite online shop]()  |
   | Beam Splitter | *Beam splitter used in Thorlabs System* |  1 |  xx € | [My favourite online shop]()  |
   | Beam Splitter Cube | *Beam splitter used in UC2 System* |  1 |  xx € | [My favourite online shop]()  |
-  | Protected Silver Mirrors | *Thorlabs Mirrors used in UC2 System* |  2  |  xx € | [My favourite online shop]()  |
-  | Mirror | *Mirror for Sample Mirror Module used in UC2 System* |  2  |  xx € | [My favourite online shop]()  |
+  | Protected Silver Mirrors | *Thorlabs Mirrors used in UC2 System* |  2  |  xx € | [Thorlabs]()  |
+  | Mirror | *Mirror for Sample Mirror Module used in UC2 System* |  2  |  xx € | [DIY]()  |
   | Objective Lens | *Objective Lenses* |  2  |  xx € | [My favourite online shop]()  |
+  | Dichroic Longpass Filter | *It increases the coherence length of the LED* |  1  |  xx € | [Comar]()  |
