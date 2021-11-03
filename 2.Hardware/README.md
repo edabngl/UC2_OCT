@@ -25,12 +25,13 @@ Components of 3D-printed Part of the Setup:
   |---|---|---|---|---|
   | Star LED Cage Holder |  *It holds star LED light source* |  1  |  x,xx € | [Design File](./INVENTOR)  | [Part.stl](./STL/)  |
   | Star LED Cage Holder Top |  *It covers top of the cage design* |  1  |  x,xx € | [Design File](./INVENTOR)  | [Part.stl](./STL/) |
-  | Beam Splitter Cube Holder |  *It splits incoming light into two part and recombine them* |  1  |  x,xx € | [Design File](./INVENTOR)  | [Part.stl](./STL/) |
+  | [Beam Splitter Cube Holder](.\Modules\Beam Splitter Module) |  *It splits incoming light into two part and recombine them* |  1  |  x,xx € | [Design File](./INVENTOR)  | [Part.stl](./STL/) |
   | Kinematic Mirror Holder |  *It holds Reference Mirror* |  1  |  x,xx € | [Design File](./INVENTOR)  | [Part.stl](./STL/) |
   | Automated Kinematic Mirror Holder |  *It holds Sample Mirror with 3 Voice Coil Actuators* |  1  |  x,xx € | [Design File](./INVENTOR)  | [Part.stl](./STL/) |
   | Objective Lens Holder |  *It holds Objective Lens* |  2  |  x,xx € | [Design File](./INVENTOR)  | [Part.stl](./STL/) |
   | Camera Holder |  *It holds RasPi Camera* |  1  |  x,xx € | [Design File](./INVENTOR)  | [Part.stl](./STL/) |
-  |  Holder |  *It holds Sample Mirror with 3 Voice Coil Actuators* |  1  |  x,xx € | [Design File](./INVENTOR)  | [Part.stl](./STL/) |
+  | [Circular Aperture Module](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Aperture_Circular) |  *It holds* |  1  |  x,xx € | [Design File](./INVENTOR)  | [Part.stl](./STL/) |
+  | [Dichroic Beam Splitter Module](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Dichroic_Beamsplitter) |  *It holds* |  1  |  x,xx € | [Design File](./INVENTOR)  | [Part.stl](./STL/) |
 
 
 ### Additional parts

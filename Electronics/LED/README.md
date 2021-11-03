@@ -1,7 +1,7 @@
 
 #### LED
 
-LED is used with dichroic long pass filter and Köhler illumination together in the setup as an illumination part.
+LED is used with dichroic long pass filter and Kohler illumination together in the setup as an illumination part.
 
 
 Spectrum of the red LED:
@@ -36,31 +36,7 @@ I = 5 V / 50 ohm = 0,1 A = 100 mA
 
 *Circuit of the LED and resistors Connection*
 <p align="middle">
-<a href="#logo" name="logo"><img src="./IMAGES/LED coonection with resistors.png" width="700"></a>
-</p>
-
-
-
-#### LASER
-
-Pen-lasers were used in the beggining for the alignment , blue UV and green VIS lasers. Green laser was so powerful. I tried to reduce the power using ND filter but instead of that I changed the laser.
-
-In the alignment part of the Thorlabs setup, [RGB Laser source]() was used with red paper filter.
-
-*Properties of the RGB Laser*
-  -
-  -
-
-Spectrum of the RGB Laser:
-
-<p align="middle">
-<a href="#logo" name="logo"><img src="./IMAGES/RGB Laser spectrum.PNG" width="700"></a>
-</p>
-
-Spectrum of the RGB Laser with red paper filter:
-
-<p align="middle">
-<a href="#logo" name="logo"><img src="./IMAGES/RGB Laser with paper filter spectrum.PNG" width="700"></a>
+<a href="#logo" name="logo"><img src="./IMAGES/LED coonection with resistors.png" width="400"></a>
 </p>
 
 
