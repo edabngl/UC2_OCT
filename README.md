@@ -37,11 +37,14 @@ We started to build our setup with basic version; Michelson Interferometer. Then
 
 
 ## Table of Content
-  * **[Hardware](./Hardware)**
-  * **[Electronics](./Electronics)**
-  * **[Software](./Software)**
-  * **[Bill of materials](./Bill of Materials)**
-  * **[Results](./Results)**
+  * **[1. Theory](./1.Theory)**
+  * **[2. Hardware](./2.Hardware)**
+  * **[3. Electronics](./3.Electronics)**
+  * **[4. Alignment](./4.Alignment)**
+  * **[5. Software](./5.Software)**
+  * **[6. Results](./6.Results)**
+  * **[7. Bill of Materials](./7.Bill_of_Materials)**
+
 
 
 *UC2-OCT Setup Diagram (draw.io)*
