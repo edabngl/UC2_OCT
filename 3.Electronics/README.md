@@ -10,9 +10,11 @@ Voice Coil Actuator (VCA) is used in different modules for linear motion of the 
 Camera records the A-scan and B-scan images.
 
 For more details, check the folder of each electronic parts.
-* [LED Light Source and LASER](./Electronics/LED)
-* [Voice Coil Actuator](./Electronics/Voice Coil Actuator)
-* [Camera](./Electronics/Camera)
+* [LED Light Source](./3.Electronics/LED)
+* [LASER](./3.Electronics/LASER)
+* [SLED](./3.Electronics/SLED)
+* [Voice Coil Actuator](./3.Electronics/Voice_Coil_Actuator)
+* [Camera](./3.Electronics/Camera)
 
 ## Collaborating
 If you find this project useful, please like this repository, follow us on Twitter and cite the webpage! :-)
