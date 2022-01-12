@@ -29,12 +29,16 @@ We started to build our setup with basic version; Michelson Interferometer. Then
 | Date | To Do | Status of the Task |
 | --- | --- | --- |
 | **September 2021** | Using Thorlab equipments, Michelson Interferometer was built with a RGB Laser and Red paper filter. | `DONE` |
-| **October 2021** | Using Thorlab equipments, Michelson Interferometer is building with a red LED light source and dichroic longpass filter | `IN PROGRESS` |
-| **October and November 2021** | Working Thorlabs system will be adapted to the UC2 version. 3D-printed parts will be redesigned or adapted to the project. | `WAITING` |
-| **October 2021** | Voice Coil Actuator will be inserted setup for moving the sample mirror in linear direction. | `WAITING` |
-| **November 2021** | Reference mirror with Voice coil actuators will be adapted to the 3D-printed system.  | `WAITING` |
-
-
+| **October 2021** | Using Thorlab equipments, Michelson Interferometer is building with a red LED light source and dichroic longpass filter | `CANCELLED` |
+| ** 5 November 2021** | Reference mirror with Voice coil actuators will be adapted to the 3D-printed system.  | `DONE by Benedict but NOT USED FOR NOW` |
+| **12 November 2021** | Cheap SLD light source was found from EXALOS and ordered. It will arrive in December. Extra driver module should be ordered.  | `DONE` |
+| **24-26 November 2021** | Working Thorlabs system (with laser) was adapted to the UC2 version as basic version of Michelson Interferometer. 3D-printed parts will be redesigned or adapted to the project. | `DONE` |
+| **22-25 November 2021** | Voice Coil Actuator was inserted setup for moving the sample mirror in linear direction in UC2 setup. | `DONE` |
+| **26-30 November 2021** | Voice Coil Actuator is testing. The setup size of the actuator is defining using the RasPi camera photos. | `IN PROGRESS` |
+| **December 2021** | Driver module for SLD light source will be ordered.  | `WAITING` |
+| **December 2021** | LED light source will be used in the UC2-OCT setup. Adapting the light source to the Michelson Interferometer.  | `WAITING` |
+| **December 2021** | The components for TD-FF-OCT setup with UC2 designs will be built with LED light source.  | `WAITING` |
+| **December 2021** | SLD light source will be adapted to the UC2-OCT.  | `WAITING` |
 
 ## Table of Content
   * **[1. Theory](./1.Theory)**
@@ -64,53 +68,52 @@ The overall price is in the range *OF LESS THAT A ZILLION*.
 ### 1st SETUP: Michelson Interferometer Experiment Setup with Thorlabs Equipment
 
 **Setup with RGB Laser as a Light Source and the filter:**
-More details about the setup can be found [here](./Hardware/Modules/Light Source).
-
 <p align="center">
 <a href="#logo" name="logo"><img src="./IMAGES/"></a>
 </p>
+
+Basic parameters of the setup:
+*
 
 
 **Setup with Red LED as a Light Source and the filter:**
-More details about the setup can be found [here](./Hardware/Modules/Light Source).
-
 <p align="center">
 <a href="#logo" name="logo"><img src="./IMAGES/"></a>
 </p>
 
-### 2nd SETUP: Time-Domain(TD) Full-Field(FF) Experiment Setup with Thorlabs Equipment
+Basic parameters of the setup:
+*
 
-**Setup with a Laser as a Light Source and the filter:**
-More details about the setup can be found [here](./Hardware/Modules/Light Source).
 
+### 2nd SETUP: Michelson Experiment Setup with UC2 IM unit blocks
+**Setup with a Green Pen Laser as a Light Source and VCA:**
 <p align="center">
 <a href="#logo" name="logo"><img src="./IMAGES/"></a>
 </p>
 
-**Setup with Red LED as a Light Source and the filter:**
-More details about the setup can be found [here](./Hardware/Modules/Light Source).
+Basic parameters of the setup:
+*
 
+
+### 3rd SETUP: Time-Domain(TD) Full-Field(FF) Experiment Setup with UC2 unit blocks
+**Setup with a Green Pen Laser as a Light Source, VCA, and other optical components:**
 <p align="center">
 <a href="#logo" name="logo"><img src="./IMAGES/"></a>
 </p>
+
+Basic parameters of the setup:
+*
+
+
+**Setup with Red LED as a Light Source (with filter), VCA, and other optical components (objectives, lenses, compensating plate):**
+<p align="center">
+<a href="#logo" name="logo"><img src="./IMAGES/"></a>
+</p>
+
+Basic parameters of the setup:
+*
 
 
 ## Get Involved
-
-This project is open so that anyone can get involved. You don't even have to learn CAD designing or programming. Find ways you can contribute in  [CONTRIBUTING](https://github.com/openUC2/UC2-GIT/blob/master/CONTRIBUTING.md)
-
-
-## License and Collaboration
-
-This project is open-source and is released under the CERN open hardware license. Our aim is to make the kits commercially available.
-We encourage everyone who is using our Toolbox to share their results and ideas, so that the Toolbox keeps improving. It should serve as a easy-to-use and easy-to-access general purpose building block solution for the area of STEAM education. All the design files are generally for free, but we would like to hear from you how is it going.
-
-You're free to fork the project and enhance it. If you have any suggestions to improve it or add any additional functions make a pull-request or file an issue.
-
-Please find the type of licenses [here](https://github.com/openUC2/UC2-GIT/blob/master/License.md)
-
-REMARK: All files have been designed using Autodesk Inventor 2021 (EDUCATION)
-
-
-## Collaborating
-If you find this project useful, please like this repository, follow us on Twitter and cite the webpage! :-)
+This project is open so that anyone can get involved. You don't even have to learn CAD designing or programming.
+You can directly connect with us using GitHub repository. Ask your questions or share your ideas with us!
