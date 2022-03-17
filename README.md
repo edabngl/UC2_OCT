@@ -1,9 +1,9 @@
 
-<p align="left">
-<a href="#logo" name="logo"><img src="https://raw.githubusercontent.com/bionanoimaging/UC2-GIT/master/IMAGES/UC2_logo_text.png" width="400"></a>
+<p align="center">
+<a href="#logo" name="logo"><img src="./IMAGES/UC2-OCT_logo.png" width="400"></a>
 </p>
 
-# openUC2 *Time-Domain, Full-Field, Low-Cost, 3D-Printed Optical Coherence Tomography*
+# OCT with openUC2 *Time-Domain, Low-Cost, 3D-Printed Optical Coherence Tomography*
 ---
 
 This repository will help you to build and setup *UC2-OCT*.
@@ -12,17 +12,41 @@ This repository will help you to build and setup *UC2-OCT*.
 We started to build our setup with basic version; Michelson Interferometer. Then, the setup will be adapted to the UC2 System with 3D-Printed inserts, Injection Molding (IM) cubes and cheap components.
 
 ***Features of the Project:***
-* Low-cost : total cost of the 3D-printed system will be under 1000 €.
+* Low-cost : total cost of the 3D-printed system will be under 1500 €.
 * Easy to assemble
 * Open-Source
 * 3D-Printed
 
 ***Key Parameters of the Project:***
-*  cheap Light Source (red High Power star LED)
-*  cheap optical filters (Comar Longpass Filter)
-*  cheap Detector (RasPi camera and Raspi 4)
+*  cheap Light Source (red High Power LED)
+*  cheap optical filters (Comar Longpass Filter etc.)
+*  cheap Detector (RasPi camera and Raspi 4, Vision Camera)
 *  cheap electronics (ESP-32S as microcontroller)
-*  low-cost, light Silver Mirror (DIY)
+*  low-cost, light Gold-coated Mirror (DIY)
+
+*UC2-OCT Setup Diagram (draw.io)*
+
+<p align="center">
+<a href="#logo" name="logo"><img src="./IMAGES/UC2_OCT_Setup_Diagram_LED&SLD.png"></a>
+</p>
+
+
+*UC2-OCT Setup Diagram (Autodesk Inventor Rendered Image)*
+
+<p align="center">
+<a href="#logo" name="logo"><img src="./IMAGES/"></a>
+</p>
+The overall price is in the range *OF LESS THAT A ZILLION*.
+
+
+## Table of Content
+  * **[1. Theory](./1.Theory)**
+  * **[2. Experimental Process](./2.Experimental Process)**
+    * **[1. Modules](./2.Experimental Process/1.Modules)**
+    * **[2. Alignment Procedure](./2.Experimental Process/2.Alignment Procedure)**
+  * **[3. Results](./3.Results)**
+    * **[Image Reconstruction](./3.Results/Image Reconstruction)**
+  * **[4. Bill of Materials](./4.Bill_of_Materials)**
 
 ##         Project Timeline:
 
@@ -40,29 +64,7 @@ We started to build our setup with basic version; Michelson Interferometer. Then
 | **December 2021** | The components for TD-FF-OCT setup with UC2 designs will be built with LED light source.  | `WAITING` |
 | **December 2021** | SLD light source will be adapted to the UC2-OCT.  | `WAITING` |
 
-## Table of Content
-  * **[1. Theory](./1.Theory)**
-  * **[2. Hardware](./2.Hardware)**
-  * **[3. Electronics](./3.Electronics)**
-  * **[4. Alignment](./4.Alignment)**
-  * **[5. Software](./5.Software)**
-  * **[6. Results](./6.Results)**
-  * **[7. Bill of Materials](./7.Bill_of_Materials)**
 
-
-
-*UC2-OCT Setup Diagram (draw.io)*
-
-<p align="center">
-<a href="#logo" name="logo"><img src="./IMAGES/"></a>
-</p>
-
-*UC2-OCT Setup Diagram (Autodesk Inventor Rendered Image)*
-
-<p align="center">
-<a href="#logo" name="logo"><img src="./IMAGES/"></a>
-</p>
-The overall price is in the range *OF LESS THAT A ZILLION*.
 
 
 ### 1st SETUP: Michelson Interferometer Experiment Setup with Thorlabs Equipment
