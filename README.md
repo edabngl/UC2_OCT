@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="#logo" name="logo"><img src="./IMAGES/UC2-OCT_logo.png" width="400"></a>
+<a href="#logo" name="logo"><img src="./IMAGES/UC2-OCT_logo.png" width="600"></a>
 </p>
 
 # OCT with openUC2 *Time-Domain, Low-Cost, 3D-Printed Optical Coherence Tomography*
