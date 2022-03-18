@@ -27,7 +27,7 @@ We started to build our setup with basic version; Michelson Interferometer. Then
 *UC2-OCT Setup Diagram (draw.io)*
 
 <p align="center">
-<a href="#logo" name="logo"><img src="./IMAGES/UC2_OCT_Setup_Diagram_LED&SLD.png"></a>
+<a href="#logo" name="logo"><img src="./IMAGES/UC2_OCT_Setup_Diagram_Laser_1.png"></a>
 </p>
 
 
