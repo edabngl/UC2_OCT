@@ -1,10 +1,8 @@
 
 # Bill of material
 
-Below you will find all components necessary to build this device
 
-
-
+WILL BE UPDTAED IN THE FUTURE.
 
 
 ## Collaborating

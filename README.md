@@ -35,20 +35,23 @@ Basic idea of aligning with Laser is the setting up mirror and objective lens po
 __Sketch 2__ is built with different light source. SLD diode is a low-coherence light and adapting pre-aligned system.
 
 <p align="center">
-<a href="#logo" name="logo"><img src="./IMAGES/uc2_OCT_diagram_w_SLD.png"></a>
+<a href="#logo"
+name="logo">
+<img src="./IMAGES/uc2_OCT_diagram_w_SLD.png"></a>
 </p>
 
 
 *UC2-OCT Setup Diagram (with UC2 modules in Autodesk Inventor)*
 
+will be updated...
 
 ## Table of Content
   * **[1. Theory](./1.Theory)**
-  * **[2. Experimental Process](./2.Experimental Process)**
-    * **[Modules](./2.Experimental Process/Modules)**
-    * **[Alignment Procedure](./2.Experimental Process/Alignment Procedure)**
+  * **[2. Experimental Process](./2.Experimental_Process)**
+    * **[Modules](./2.Experimental_Process/Modules)**
+    * **[Alignment Procedure](./2.Experimental_Process/Alignment_Procedure)**
   * **[3. Results](./3.Results)**
-    * **[Image Reconstruction](./3.Results/Image Reconstruction)**
+    * **[Image Reconstruction](./3.Results/Image_Reconstruction)**
   * **[4. Bill of Materials](./4.Bill_of_Materials)**
 
 ##         Project Timeline:
