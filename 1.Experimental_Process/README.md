@@ -6,8 +6,10 @@
 
 <p align="center">
 <a href="#logo" name="logo"><img src="./IMAGES/all_modules.png" width="500"></a>
-</p>
+</p>,
+
 ### Electronics
+
 During the project, some electronic parts are using for various purposes.
 
 Laser in the system is used for alignment of the mirrors.
@@ -16,15 +18,14 @@ Voice Coil Actuator (VCA) is used in different modules for linear motion of the 
 Camera records the A-scan and B-scan images.
 
 For more details, check the folder of each electronic parts.
-* [LED Light Source](./3.Electronics/LED)
-* [LASER](./3.Electronics/LASER)
-* [SLED](./3.Electronics/SLED)
-* [Voice Coil Actuator](./3.Electronics/Voice_Coil_Actuator)
-* [Camera](./3.Electronics/Camera)
+* [LASER](./Modules/1.Light Source Modules/1.LASER)
+* [SLED](./Modules/1.Light Source Modules/2.SLD)
+* [Voice Coil Actuator](./Modules/6.Reference Mirror Module/Voice_Coil_Actuator)
+* [Linear Stage with NEMA motor](./Modules/1.Light Source Modules)
+* [Camera](./Modules/2.Camera Module)
 
 
-### Alignment Procedure for OCT
-
+### Bill of material
 
 
 ## Collaborating
